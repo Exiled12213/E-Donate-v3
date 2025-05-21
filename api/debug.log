@@ -1,0 +1,4187 @@
+[2025-05-17 10:10:25] === Login Debug Start ===
+[2025-05-17 10:10:25] Attempting login for email: admin@ua.edu.ph
+[2025-05-17 10:10:25] Provided password: cpe12345
+[2025-05-17 10:10:25] User found in database:
+[2025-05-17 10:10:25] User ID: 6
+[2025-05-17 10:10:25] Username: admin
+[2025-05-17 10:10:25] Email: admin@ua.edu.ph
+[2025-05-17 10:10:25] Is Admin: Yes
+[2025-05-17 10:10:25] Stored Password Hash: cpe12345
+[2025-05-17 10:10:25] Admin credentials match
+[2025-05-17 10:13:28] === Login Debug Start ===
+[2025-05-17 10:13:28] Attempting login for email: admin@ua.edu.ph
+[2025-05-17 10:13:28] Provided password: cpe12345
+[2025-05-17 10:13:28] User found in database:
+[2025-05-17 10:13:28] User ID: 6
+[2025-05-17 10:13:28] Username: admin
+[2025-05-17 10:13:28] Email: admin@ua.edu.ph
+[2025-05-17 10:13:28] Is Admin: Yes
+[2025-05-17 10:13:28] Stored Password Hash: cpe12345
+[2025-05-17 10:13:28] Admin credentials match
+[2025-05-17 10:15:19] === Login Debug Start ===
+[2025-05-17 10:15:19] Attempting login for email: admin@ua.edu.ph
+[2025-05-17 10:15:19] Provided password: cpe12345
+[2025-05-17 10:15:19] User found in database:
+[2025-05-17 10:15:19] User ID: 6
+[2025-05-17 10:15:19] Username: admin
+[2025-05-17 10:15:19] Email: admin@ua.edu.ph
+[2025-05-17 10:15:19] Is Admin: Yes
+[2025-05-17 10:15:19] Stored Password Hash: cpe12345
+[2025-05-17 10:15:19] Admin credentials match
+[2025-05-17 10:20:14] === Login Debug Start ===
+[2025-05-17 10:20:14] Attempting login for email: admin@ua.edu.ph
+[2025-05-17 10:20:14] Provided password: cpe12345
+[2025-05-17 10:20:14] User found in database:
+[2025-05-17 10:20:14] User ID: 6
+[2025-05-17 10:20:14] Username: admin
+[2025-05-17 10:20:14] Email: admin@ua.edu.ph
+[2025-05-17 10:20:14] Is Admin: Yes
+[2025-05-17 10:20:14] Stored Password Hash: cpe12345
+[2025-05-17 10:20:14] Admin credentials match
+[2025-05-17 10:20:29] === Login Debug Start ===
+[2025-05-17 10:20:29] Attempting login for email: jeaesguerra.student@ua.edu.ph
+[2025-05-17 10:20:29] Provided password: 1234567890
+[2025-05-17 10:20:29] User found in database:
+[2025-05-17 10:20:29] User ID: 2
+[2025-05-17 10:20:29] Username: Yoorha
+[2025-05-17 10:20:29] Email: jeaesguerra.student@ua.edu.ph
+[2025-05-17 10:20:29] Is Admin: No
+[2025-05-17 10:20:29] Stored Password Hash: $2y$10$GlW6lmhZrZ7gjt23zzQ2se2R3cWMlmMExDkMp320jSkJ/F3hO3bi2
+[2025-05-17 10:20:29] Password verification result: Success
+[2025-05-17 10:20:29] Login successful
+[2025-05-17 10:20:36] === Login Debug Start ===
+[2025-05-17 10:20:36] Attempting login for email: admin@ua.edu.ph
+[2025-05-17 10:20:36] Provided password: cpe12345
+[2025-05-17 10:20:36] User found in database:
+[2025-05-17 10:20:36] User ID: 6
+[2025-05-17 10:20:36] Username: admin
+[2025-05-17 10:20:36] Email: admin@ua.edu.ph
+[2025-05-17 10:20:36] Is Admin: Yes
+[2025-05-17 10:20:36] Stored Password Hash: cpe12345
+[2025-05-17 10:20:36] Admin credentials match
+[2025-05-17 10:22:53] === Login Debug Start ===
+[2025-05-17 10:22:53] Attempting login for email: jeaesguerra.student@ua.edu.ph
+[2025-05-17 10:22:53] Provided password: 1234567890
+[2025-05-17 10:22:53] User found in database:
+[2025-05-17 10:22:53] User ID: 2
+[2025-05-17 10:22:53] Username: Yoorha
+[2025-05-17 10:22:53] Email: jeaesguerra.student@ua.edu.ph
+[2025-05-17 10:22:53] Is Admin: No
+[2025-05-17 10:22:53] Stored Password Hash: $2y$10$GlW6lmhZrZ7gjt23zzQ2se2R3cWMlmMExDkMp320jSkJ/F3hO3bi2
+[2025-05-17 10:22:53] Password verification result: Success
+[2025-05-17 10:22:53] Login successful
+[2025-05-17 10:25:27] === Login Debug Start ===
+[2025-05-17 10:25:27] Attempting login for email: jeaesguerra.student@ua.edu.ph
+[2025-05-17 10:25:27] Provided password: 1234567890
+[2025-05-17 10:25:27] User found in database:
+[2025-05-17 10:25:27] User ID: 2
+[2025-05-17 10:25:27] Username: Yoorha
+[2025-05-17 10:25:27] Email: jeaesguerra.student@ua.edu.ph
+[2025-05-17 10:25:27] Is Admin: No
+[2025-05-17 10:25:27] Stored Password Hash: $2y$10$GlW6lmhZrZ7gjt23zzQ2se2R3cWMlmMExDkMp320jSkJ/F3hO3bi2
+[2025-05-17 10:25:27] Password verification result: Success
+[2025-05-17 10:25:27] Login successful
+[2025-05-17 10:27:18] === Login Debug Start ===
+[2025-05-17 10:27:18] Attempting login for email: jeaesguerra.student@ua.edu.ph
+[2025-05-17 10:27:18] Provided password: 1234567890
+[2025-05-17 10:27:18] User found in database:
+[2025-05-17 10:27:18] User ID: 2
+[2025-05-17 10:27:18] Username: Yoorha
+[2025-05-17 10:27:18] Email: jeaesguerra.student@ua.edu.ph
+[2025-05-17 10:27:18] Is Admin: No
+[2025-05-17 10:27:18] Stored Password Hash: $2y$10$GlW6lmhZrZ7gjt23zzQ2se2R3cWMlmMExDkMp320jSkJ/F3hO3bi2
+[2025-05-17 10:27:18] Password verification result: Success
+[2025-05-17 10:27:18] Login successful
+[2025-05-17 10:28:23] === Login Debug Start ===
+[2025-05-17 10:28:23] Attempting login for email: admin@ua.edu.ph
+[2025-05-17 10:28:23] Provided password: cpe12345
+[2025-05-17 10:28:23] User found in database:
+[2025-05-17 10:28:23] User ID: 6
+[2025-05-17 10:28:23] Username: admin
+[2025-05-17 10:28:23] Email: admin@ua.edu.ph
+[2025-05-17 10:28:23] Is Admin: Yes
+[2025-05-17 10:28:23] Stored Password Hash: cpe12345
+[2025-05-17 10:28:23] Admin credentials match
+[2025-05-17 10:29:15] === Login Debug Start ===
+[2025-05-17 10:29:15] Attempting login for email: letmacapagal.student@ua.edu.ph
+[2025-05-17 10:29:15] Provided password: 1234567890
+[2025-05-17 10:29:15] User found in database:
+[2025-05-17 10:29:15] User ID: 7
+[2025-05-17 10:29:15] Username: lanz
+[2025-05-17 10:29:15] Email: letmacapagal.student@ua.edu.ph
+[2025-05-17 10:29:15] Is Admin: No
+[2025-05-17 10:29:15] Stored Password Hash: $2y$10$AiITWFsglYsUm1jSuNlALutByddjqb7B7AesKtMT07iQolvQbY3sy
+[2025-05-17 10:29:15] Password verification result: Success
+[2025-05-17 10:29:15] Login successful
+[2025-05-17 10:29:28] === Login Debug Start ===
+[2025-05-17 10:29:28] Attempting login for email: jeaesguerra.student@ua.edu.ph
+[2025-05-17 10:29:28] Provided password: 1234567890
+[2025-05-17 10:29:28] User found in database:
+[2025-05-17 10:29:28] User ID: 2
+[2025-05-17 10:29:28] Username: Yoorha
+[2025-05-17 10:29:28] Email: jeaesguerra.student@ua.edu.ph
+[2025-05-17 10:29:28] Is Admin: No
+[2025-05-17 10:29:28] Stored Password Hash: $2y$10$GlW6lmhZrZ7gjt23zzQ2se2R3cWMlmMExDkMp320jSkJ/F3hO3bi2
+[2025-05-17 10:29:28] Password verification result: Success
+[2025-05-17 10:29:28] Login successful
+[2025-05-17 10:34:29] === Login Debug Start ===
+[2025-05-17 10:34:29] Attempting login for email: admin@ua.edu.ph
+[2025-05-17 10:34:29] Provided password: cpe12345
+[2025-05-17 10:34:29] User found in database:
+[2025-05-17 10:34:29] User ID: 6
+[2025-05-17 10:34:29] Username: admin
+[2025-05-17 10:34:29] Email: admin@ua.edu.ph
+[2025-05-17 10:34:29] Is Admin: Yes
+[2025-05-17 10:34:29] Stored Password Hash: cpe12345
+[2025-05-17 10:34:29] Admin credentials match
+[2025-05-17 10:34:52] === Login Debug Start ===
+[2025-05-17 10:34:52] Attempting login for email: jeaesguerra.student@ua.edu.ph
+[2025-05-17 10:34:52] Provided password: 1234567890
+[2025-05-17 10:34:52] User found in database:
+[2025-05-17 10:34:52] User ID: 2
+[2025-05-17 10:34:52] Username: Yoorha
+[2025-05-17 10:34:52] Email: jeaesguerra.student@ua.edu.ph
+[2025-05-17 10:34:52] Is Admin: No
+[2025-05-17 10:34:52] Stored Password Hash: $2y$10$GlW6lmhZrZ7gjt23zzQ2se2R3cWMlmMExDkMp320jSkJ/F3hO3bi2
+[2025-05-17 10:34:52] Password verification result: Success
+[2025-05-17 10:34:52] Login successful
+[2025-05-17 10:38:56] === Login Debug Start ===
+[2025-05-17 10:38:56] Attempting login for email: admin@ua.edu.ph
+[2025-05-17 10:38:56] Provided password: cpe12345
+[2025-05-17 10:38:56] User found in database:
+[2025-05-17 10:38:56] User ID: 6
+[2025-05-17 10:38:56] Username: admin
+[2025-05-17 10:38:56] Email: admin@ua.edu.ph
+[2025-05-17 10:38:56] Is Admin: Yes
+[2025-05-17 10:38:56] Stored Password Hash: cpe12345
+[2025-05-17 10:38:56] Admin credentials match
+[2025-05-17 10:39:23] === Login Debug Start ===
+[2025-05-17 10:39:23] Attempting login for email: jeaesguerra.student@ua.edu.ph
+[2025-05-17 10:39:23] Provided password: 1234567890
+[2025-05-17 10:39:23] User found in database:
+[2025-05-17 10:39:23] User ID: 2
+[2025-05-17 10:39:23] Username: Yoorha
+[2025-05-17 10:39:23] Email: jeaesguerra.student@ua.edu.ph
+[2025-05-17 10:39:23] Is Admin: No
+[2025-05-17 10:39:23] Stored Password Hash: $2y$10$GlW6lmhZrZ7gjt23zzQ2se2R3cWMlmMExDkMp320jSkJ/F3hO3bi2
+[2025-05-17 10:39:23] Password verification result: Success
+[2025-05-17 10:39:23] Login successful
+[2025-05-17 10:41:28] === Login Debug Start ===
+[2025-05-17 10:41:28] Attempting login for email: admin@ua.edu.ph
+[2025-05-17 10:41:28] Provided password: cpe12345
+[2025-05-17 10:41:28] User found in database:
+[2025-05-17 10:41:28] User ID: 6
+[2025-05-17 10:41:28] Username: admin
+[2025-05-17 10:41:28] Email: admin@ua.edu.ph
+[2025-05-17 10:41:28] Is Admin: Yes
+[2025-05-17 10:41:28] Stored Password Hash: cpe12345
+[2025-05-17 10:41:28] Admin credentials match
+[2025-05-17 10:56:27] === Login Debug Start ===
+[2025-05-17 10:56:27] Attempting login for email: admin@ua.edu.ph
+[2025-05-17 10:56:27] Provided password: cpe12345
+[2025-05-17 10:56:27] User found in database:
+[2025-05-17 10:56:27] User ID: 1
+[2025-05-17 10:56:27] Username: admin
+[2025-05-17 10:56:27] Email: admin@ua.edu.ph
+[2025-05-17 10:56:27] Is Admin: Yes
+[2025-05-17 10:56:27] Stored Password Hash: 
+[2025-05-17 10:56:27] Admin credentials match
+[2025-05-17 10:56:33] === Login Debug Start ===
+[2025-05-17 10:56:33] Attempting login for email: admin@ua.edu.ph
+[2025-05-17 10:56:33] Provided password: cpe12345
+[2025-05-17 10:56:33] User found in database:
+[2025-05-17 10:56:33] User ID: 1
+[2025-05-17 10:56:33] Username: admin
+[2025-05-17 10:56:33] Email: admin@ua.edu.ph
+[2025-05-17 10:56:33] Is Admin: Yes
+[2025-05-17 10:56:33] Stored Password Hash: 
+[2025-05-17 10:56:33] Admin credentials match
+[2025-05-17 10:58:12] === Login Debug Start ===
+[2025-05-17 10:58:12] Attempting login for email: admin@ua.edu.ph
+[2025-05-17 10:58:12] Provided password: cpe12345
+[2025-05-17 10:58:12] User found in database:
+[2025-05-17 10:58:12] User ID: 1
+[2025-05-17 10:58:12] Username: admin
+[2025-05-17 10:58:12] Email: admin@ua.edu.ph
+[2025-05-17 10:58:12] Is Admin: Yes
+[2025-05-17 10:58:12] Stored Password Hash: 
+[2025-05-17 10:58:12] Admin credentials match
+[2025-05-17 10:58:16] === Login Debug Start ===
+[2025-05-17 10:58:16] Attempting login for email: admin@ua.edu.ph
+[2025-05-17 10:58:16] Provided password: cpe12345
+[2025-05-17 10:58:16] User found in database:
+[2025-05-17 10:58:16] User ID: 1
+[2025-05-17 10:58:16] Username: admin
+[2025-05-17 10:58:16] Email: admin@ua.edu.ph
+[2025-05-17 10:58:16] Is Admin: Yes
+[2025-05-17 10:58:16] Stored Password Hash: 
+[2025-05-17 10:58:16] Admin credentials match
+[2025-05-17 10:59:03] === Login Debug Start ===
+[2025-05-17 10:59:03] Attempting login for email: admin@ua.edu.ph
+[2025-05-17 10:59:03] Provided password: cpe12345
+[2025-05-17 10:59:03] User found in database:
+[2025-05-17 10:59:03] User ID: 1
+[2025-05-17 10:59:03] Username: admin
+[2025-05-17 10:59:03] Email: admin@ua.edu.ph
+[2025-05-17 10:59:03] Is Admin: Yes
+[2025-05-17 10:59:03] Stored Password Hash: 
+[2025-05-17 10:59:03] Admin credentials match
+[2025-05-17 10:59:09] === Login Debug Start ===
+[2025-05-17 10:59:09] Attempting login for email: admin@ua.edu.ph
+[2025-05-17 10:59:09] Provided password: cpe12345
+[2025-05-17 10:59:09] User found in database:
+[2025-05-17 10:59:09] User ID: 1
+[2025-05-17 10:59:09] Username: admin
+[2025-05-17 10:59:09] Email: admin@ua.edu.ph
+[2025-05-17 10:59:09] Is Admin: Yes
+[2025-05-17 10:59:09] Stored Password Hash: 
+[2025-05-17 10:59:09] Admin credentials match
+
+[2025-05-17 11:58:58] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+Provided password: 1234567890
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Stored Password Hash: $2y$10$UTVv3QLa4U8jvngSJntcFuJLRUZWpLUDsMX1retLMIyJLUoApPAUC
+Password verification successful
+=== Login Debug End ===
+
+[2025-05-17 12:01:45] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+Provided password: cpe12345
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Stored Password Hash: cpe12345
+Admin login attempt - Recreated hash: $2y$10$YF.wNQJxNgA8juGHw7JriOFJm4q8vdDm02vNe9dgtJw7JUIjaifp6
+Admin password match successful
+=== Login Debug End ===
+
+[2025-05-17 12:09:59] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+Provided password: cpe12345
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Stored Password Hash: $2y$10$YF.wNQJxNgA8juGHw7JriOFJm4q8vdDm02vNe9dgtJw7JUIjaifp6
+Admin password match successful
+=== Login Debug End ===
+
+[2025-05-17 12:10:32] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+Provided password: cpe12345
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Stored Password Hash: $2y$10$YF.wNQJxNgA8juGHw7JriOFJm4q8vdDm02vNe9dgtJw7JUIjaifp6
+Admin password match successful
+=== Login Debug End ===
+
+[2025-05-17 12:11:00] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+Provided password: cpe12345
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Stored Password Hash: $2y$10$YF.wNQJxNgA8juGHw7JriOFJm4q8vdDm02vNe9dgtJw7JUIjaifp6
+Admin password match successful
+=== Login Debug End ===
+
+[2025-05-17 12:14:01] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-17 12:14:09] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-17 12:16:32] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-17 12:16:43] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful
+=== Login Debug End ===
+
+[2025-05-17 12:16:49] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification failed
+=== Login Debug End ===
+
+[2025-05-17 12:16:55] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-17 12:19:25] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-17 12:20:53] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-17 12:21:15] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-17 12:21:28] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-17 12:21:45] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+=== Login Debug End ===
+
+[2025-05-17 12:21:55] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-17 12:28:18] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-17 12:28:31] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User is blocked
+
+[2025-05-17 12:28:37] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-17 12:30:37] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-17 12:31:16] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-17 12:34:14] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+
+[2025-05-17 12:34:17] === Toggle User Block Debug Start ===
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+Received data: Array
+(
+    [user_id] => 3
+    [block] => 
+)
+
+Executing query with block=0 and user_id=3
+No rows affected. User might not exist or might be admin
+=== Toggle User Block Debug End ===
+
+[2025-05-17 12:34:19] === Toggle User Block Debug Start ===
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+Received data: Array
+(
+    [user_id] => 2
+    [block] => 
+)
+
+Executing query with block=0 and user_id=2
+No rows affected. User might not exist or might be admin
+=== Toggle User Block Debug End ===
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+
+[2025-05-17 12:34:23] === Toggle User Block Debug Start ===
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+Received data: Array
+(
+    [user_id] => 3
+    [block] => 
+)
+
+Executing query with block=0 and user_id=3
+No rows affected. User might not exist or might be admin
+=== Toggle User Block Debug End ===
+
+[2025-05-17 12:42:11] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-17 12:42:12] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-17 12:42:12] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-17 12:42:14] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: POST
+
+[2025-05-17 12:42:14] === Toggle User Block Debug Start ===
+Request Method: POST
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+Received data: Array
+(
+    [user_id] => 3
+    [block] => 
+)
+
+Executing query with block=0 and user_id=3
+No rows affected. User might not exist or might be admin
+=== Toggle User Block Debug End ===
+
+[2025-05-17 12:42:15] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: POST
+
+[2025-05-17 12:42:15] === Toggle User Block Debug Start ===
+Request Method: POST
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+Received data: Array
+(
+    [user_id] => 2
+    [block] => 
+)
+
+Executing query with block=0 and user_id=2
+No rows affected. User might not exist or might be admin
+=== Toggle User Block Debug End ===
+
+[2025-05-17 12:42:22] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-17 12:42:23] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-17 12:42:23] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-17 12:42:25] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: POST
+
+[2025-05-17 12:42:25] === Toggle User Block Debug Start ===
+Request Method: POST
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+Received data: Array
+(
+    [user_id] => 3
+    [block] => 
+)
+
+Executing query with block=0 and user_id=3
+No rows affected. User might not exist or might be admin
+=== Toggle User Block Debug End ===
+
+[2025-05-17 14:37:54] === Login Debug Start ===
+Attempting login for email: joshuaatienza@gmail.com
+User not found in database
+
+[2025-05-17 14:37:57] === Login Debug Start ===
+Attempting login for email: joshuaatienza@gmail.com
+User not found in database
+
+[2025-05-17 14:38:05] === Login Debug Start ===
+Attempting login for email: joshuaatienza@ua.edu.ph
+User found in database:
+User ID: 4
+Username: joshuaatienza
+Email: joshuaatienza@ua.edu.ph
+Password verification failed
+=== Login Debug End ===
+
+[2025-05-17 14:38:10] === Login Debug Start ===
+Attempting login for email: joshuaatienza@ua.edu.ph
+User found in database:
+User ID: 4
+Username: joshuaatienza
+Email: joshuaatienza@ua.edu.ph
+Password verification failed
+=== Login Debug End ===
+
+[2025-05-17 14:38:14] === Login Debug Start ===
+Attempting login for email: joshuaatienza@ua.edu.ph
+User found in database:
+User ID: 4
+Username: joshuaatienza
+Email: joshuaatienza@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 4
+            [username] => joshuaatienza
+            [email] => joshuaatienza@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-17 14:38:34] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-17 14:38:36] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-17 14:47:29] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-17 14:48:37] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 05:49:24] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 05:49:27] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 05:49:46] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 05:53:49] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 05:53:56] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 05:56:01] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 05:56:18] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 05:57:17] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 05:57:19] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 05:58:08] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 06:05:06] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 06:05:16] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 06:05:17] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:12:40] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 06:13:44] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 06:20:57] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 06:27:08] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 06:27:11] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 06:43:49] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 06:43:51] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:44:04] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:44:05] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:44:08] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:44:09] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:44:09] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:51:13] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:51:14] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:51:35] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 06:51:37] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:51:37] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:51:38] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:51:38] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:51:38] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:51:41] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:51:42] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:51:42] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:51:42] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:51:43] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:51:45] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:51:46] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:51:46] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:51:46] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:51:46] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:51:47] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:51:47] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:51:48] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 06:51:51] === Admin Auth Debug Start ===
+Session ID: 6ncsv62ek87a0dq4prjmjarfun
+Request Method: GET
+
+Requiring admin access...
+
+Checking admin status...
+Session data: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Is admin: Yes
+Admin access granted
+=== Admin Auth Debug End ===
+
+[2025-05-18 07:03:47] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 07:59:30] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 08:00:26] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 08:01:10] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 08:01:44] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 08:15:37] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 08:16:09] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 08:17:20] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 08:17:33] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 08:27:49] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 08:27:59] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 08:32:36] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 08:33:24] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 08:33:32] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 08:34:19] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 08:48:37] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 08:49:10] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 08:52:00] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 08:52:34] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 08:53:46] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 08:53:58] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 08:57:36] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 09:11:19] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 09:12:15] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 09:18:58] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 09:20:30] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 09:20:39] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 09:24:11] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 09:24:38] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 09:31:25] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 09:33:02] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 09:57:16] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 10:01:36] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 10:13:12] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 10:15:31] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 10:35:46] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 10:41:23] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 10:45:19] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 10:46:07] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 10:52:57] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 11:00:01] === Login Debug Start ===
+Attempting login for email: joshuaatienza@ua.edu.ph
+User found in database:
+User ID: 4
+Username: joshuaatienza
+Email: joshuaatienza@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 4
+            [username] => joshuaatienza
+            [email] => joshuaatienza@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 11:00:12] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 11:00:19] === Login Debug Start ===
+Attempting login for email: joshuaatienza@ua.edu.ph
+User found in database:
+User ID: 4
+Username: joshuaatienza
+Email: joshuaatienza@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 4
+            [username] => joshuaatienza
+            [email] => joshuaatienza@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 11:01:47] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 11:03:00] === Login Debug Start ===
+Attempting login for email: kiean@ua.edu.ph
+User found in database:
+User ID: 5
+Username: Kiean
+Email: kiean@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 5
+            [username] => Kiean
+            [email] => kiean@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 11:03:12] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 11:03:48] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 11:05:20] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 11:05:25] === Login Debug Start ===
+Attempting login for email: joshuaatienza@ua.edu.ph
+User found in database:
+User ID: 4
+Username: joshuaatienza
+Email: joshuaatienza@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 4
+            [username] => joshuaatienza
+            [email] => joshuaatienza@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 11:05:55] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 11:07:13] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 11:10:57] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 12:32:32] === Login Debug Start ===
+Attempting login for email: kiean@ua.edu.ph
+User is blocked
+
+[2025-05-18 12:32:35] === Login Debug Start ===
+Attempting login for email: joshuaatienza@ua.edu.ph
+User found in database:
+User ID: 4
+Username: joshuaatienza
+Email: joshuaatienza@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 4
+            [username] => joshuaatienza
+            [email] => joshuaatienza@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 12:33:06] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 15:32:21] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 15:33:38] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 15:34:38] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 15:37:00] === Login Debug Start ===
+Attempting login for email: fortesting@ua.edu.ph
+User found in database:
+User ID: 6
+Username: For Testing
+Email: fortesting@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 6
+            [username] => For Testing
+            [email] => fortesting@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 15:38:19] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 15:43:40] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 16:12:53] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 16:36:59] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 16:37:06] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 16:37:15] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 16:43:16] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 16:49:33] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification failed
+=== Login Debug End ===
+
+[2025-05-18 16:49:42] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 16:51:40] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 16:52:05] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 17:05:06] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 17:13:26] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 17:32:50] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 17:34:07] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 17:34:17] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 17:45:50] === Login Debug Start ===
+Attempting login for email: fortesting@ua.edu.ph
+User found in database:
+User ID: 6
+Username: For Testing
+Email: fortesting@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 6
+            [username] => For Testing
+            [email] => fortesting@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 17:46:33] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-18 17:47:57] === Login Debug Start ===
+Attempting login for email: fortesting@ua.edu.ph
+User is blocked
+
+[2025-05-18 17:52:23] === Login Debug Start ===
+Attempting login for email: fortesting@ua.edu.ph
+User is blocked
+
+[2025-05-18 17:52:28] === Login Debug Start ===
+Attempting login for email: fortesting@ua.edu.ph
+User is blocked
+
+[2025-05-18 17:52:30] === Login Debug Start ===
+Attempting login for email: fortesting@ua.edu.ph
+User is blocked
+
+[2025-05-18 17:52:31] === Login Debug Start ===
+Attempting login for email: fortesting@ua.edu.ph
+User is blocked
+
+[2025-05-18 18:06:51] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-18 18:07:31] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-19 08:14:46] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-19 13:58:40] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-19 14:01:11] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-19 14:15:53] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-19 14:16:54] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-19 14:23:36] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-19 14:23:48] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-20 04:33:10] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-20 04:33:41] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-20 04:34:12] === Login Debug Start ===
+Attempting login for email: fortesting@ua.edu.ph
+User is blocked
+
+[2025-05-20 04:34:16] === Login Debug Start ===
+Attempting login for email: kiean@ua.edu.ph
+User found in database:
+User ID: 5
+Username: Kiean
+Email: kiean@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 5
+            [username] => Kiean
+            [email] => kiean@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-20 04:37:37] === Login Debug Start ===
+Attempting login for email: joshuaatienza@ua.edu.ph
+User found in database:
+User ID: 4
+Username: joshuaatienza
+Email: joshuaatienza@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 4
+            [username] => joshuaatienza
+            [email] => joshuaatienza@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-20 04:39:37] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-20 04:42:13] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-20 04:43:31] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===
+
+[2025-05-20 04:44:02] === Login Debug Start ===
+Attempting login for email: fortesting@ua.edu.ph
+User is blocked
+
+[2025-05-20 04:44:05] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-20 14:59:17] === Login Debug Start ===
+Attempting login for email: jeaesguerra.student@ua.edu.ph
+User found in database:
+User ID: 2
+Username: Yoorha
+Email: jeaesguerra.student@ua.edu.ph
+Password verification successful for regular user
+Session created for regular user: Array
+(
+    [user] => Array
+        (
+            [id] => 2
+            [username] => Yoorha
+            [email] => jeaesguerra.student@ua.edu.ph
+            [is_admin] => 
+        )
+
+)
+
+=== Login Debug End ===
+
+[2025-05-20 15:11:09] === Login Debug Start ===
+Attempting login for email: admin@ua.edu.ph
+User found in database:
+User ID: 1
+Username: admin
+Email: admin@ua.edu.ph
+Admin login successful
+Session created for admin: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [email] => admin@ua.edu.ph
+            [is_admin] => 1
+        )
+
+)
+
+Admin response sent
+=== Login Debug End ===

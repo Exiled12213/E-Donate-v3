@@ -1,0 +1,52 @@
+[2025-05-17 11:06:26][DEBUG][Login] Raw input: {"email":"admin@ua.edu.ph","password":"cpe12345"}
+[2025-05-17 11:06:26][INFO][Login] Login attempt for email: admin@ua.edu.ph
+[2025-05-17 11:06:26][DEBUG][Login] User found: admin, Is Admin: Yes
+[2025-05-17 11:06:28][DEBUG][Login] Raw input: {"email":"admin@ua.edu.ph","password":"cpe12345"}
+[2025-05-17 11:06:28][INFO][Login] Login attempt for email: admin@ua.edu.ph
+[2025-05-17 11:06:28][DEBUG][Login] User found: admin, Is Admin: Yes
+[2025-05-17 11:07:00][DEBUG][Login] Raw input: {"email":"admin@ua.edu.ph","password":"cpe12345"}
+[2025-05-17 11:07:00][INFO][Login] Login attempt for email: admin@ua.edu.ph
+[2025-05-17 11:07:00][DEBUG][Login] User found: admin, Is Admin: Yes
+[2025-05-17 11:07:36][DEBUG][Login] Raw input: {"email":"admin@ua.edu.ph","password":"cpe12345"}
+[2025-05-17 11:07:36][INFO][Login] Login attempt for email: admin@ua.edu.ph
+[2025-05-17 11:07:36][DEBUG][Login] User found: admin, Is Admin: Yes
+[2025-05-17 11:07:52][DEBUG][Login] Raw input: {"email":"admin@ua.edu.ph","password":"cpe12345"}
+[2025-05-17 11:07:52][INFO][Login] Login attempt for email: admin@ua.edu.ph
+[2025-05-17 11:07:52][DEBUG][Login] User found: admin, Is Admin: Yes
+[2025-05-17 11:09:06][DEBUG][Login] Raw input: {"email":"admin@ua.edu.ph","password":"cpe12345"}
+[2025-05-17 11:09:06][INFO][Login] Login attempt for email: admin@ua.edu.ph
+[2025-05-17 11:09:06][DEBUG][Login] User found: admin, Is Admin: Yes
+[2025-05-17 11:13:04][DEBUG][Login] Raw input: {"email":"admin@ua.edu.ph","password":"cpe12345"}
+[2025-05-17 11:13:04][INFO][Login] Login attempt for email: admin@ua.edu.ph
+[2025-05-17 11:13:04][DEBUG][Login] User found: admin, Is Admin: Yes
+[2025-05-17 11:13:39][DEBUG][Login] Raw input: {"email":"admin@ua.edu.ph","password":"cpe12345"}
+[2025-05-17 11:13:39][INFO][Login] Login attempt for email: admin@ua.edu.ph
+[2025-05-17 11:13:39][DEBUG][Login] User found: admin, Is Admin: Yes
+[2025-05-17 11:14:07][DEBUG][Login] Raw input: {"email":"admin@ua.edu.ph","password":"cpe12345"}
+[2025-05-17 11:14:07][INFO][Login] Login attempt for email: admin@ua.edu.ph
+[2025-05-17 11:14:07][DEBUG][Login] User found: admin, Is Admin: Yes
+[2025-05-17 11:14:11][DEBUG][Login] Raw input: {"email":"admin@ua.edu.ph","password":"cpe12345"}
+[2025-05-17 11:14:11][INFO][Login] Login attempt for email: admin@ua.edu.ph
+[2025-05-17 11:14:11][DEBUG][Login] User found: admin, Is Admin: Yes
+[2025-05-17 11:14:39][DEBUG][Login] Raw input: {"email":"admin@ua.edu.ph","password":"cpe12345"}
+[2025-05-17 11:14:39][INFO][Login] Login attempt for email: admin@ua.edu.ph
+[2025-05-17 11:14:39][DEBUG][Login] User found: admin, Is Admin: Yes
+[2025-05-17 11:14:43][DEBUG][Login] Raw input: {"email":"admin@ua.edu.ph","password":"cpe12345"}
+[2025-05-17 11:14:43][INFO][Login] Login attempt for email: admin@ua.edu.ph
+[2025-05-17 11:14:43][DEBUG][Login] User found: admin, Is Admin: Yes
+[2025-05-17 11:14:50][DEBUG][Login] Raw input: {"email":"admin@ua.edu.ph","password":"cpe12345"}
+[2025-05-17 11:14:50][INFO][Login] Login attempt for email: admin@ua.edu.ph
+[2025-05-17 11:14:50][DEBUG][Login] User found: admin, Is Admin: Yes
+[2025-05-17 11:16:48][INFO][Register] Registration request received
+[2025-05-17 11:16:48][ERROR][Register] No data received
+[2025-05-17 11:17:01][DEBUG][Login] Raw input: 
+[2025-05-17 11:17:01][ERROR][Login] No data received or invalid JSON
+[2025-05-17 11:17:08][DEBUG][Login] Raw input: {"email":"admin@ua.edu.ph","password":"cpe12345"}
+[2025-05-17 11:17:08][INFO][Login] Login attempt for email: admin@ua.edu.ph
+[2025-05-17 11:17:08][DEBUG][Login] User found: admin, Is Admin: Yes
+[2025-05-17 11:17:43][INFO][Register] Registration request received
+[2025-05-17 11:19:50][INFO][Register] Registration request received
+[2025-05-17 11:19:50][DEBUG][Register] Raw input: {"username":"Yoorha","email":"jeaesguerra.student@ua.edu.ph","password":"1234567890"}
+[2025-05-17 11:19:54][DEBUG][Login] Raw input: {"email":"admin@ua.edu.ph","password":"cpe12345"}
+[2025-05-17 11:19:54][INFO][Login] Login attempt for email: admin@ua.edu.ph
+[2025-05-17 11:19:54][DEBUG][Login] User found: admin, Is Admin: Yes

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>E-Donate Frontend Test</title>
+    <script src="../script/database.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        .test-section { margin-bottom: 20px; }
+        .success { color: green; }
+        .error { color: red; }
+    </style>
+</head>
+<body>
+    <h1>E-Donate Frontend Test</h1>
+    
+    <div class="test-section">
+        <h3>Test Registration</h3>
+        <form id="test-registration">
+            <input type="text" id="reg-username" value="testuser" readonly>
+            <input type="email" id="reg-email" value="test@ua.edu.ph" readonly>
+            <input type="password" id="reg-password" value="test123" readonly>
+            <button type="submit">Test Registration</button>
+        </form>
+        <div id="reg-result"></div>
+    </div>
+
+    <div class="test-section">
+        <h3>Test Login</h3>
+        <form id="test-login">
+            <input type="email" id="login-email" value="test@ua.edu.ph" readonly>
+            <input type="password" id="login-password" value="test123" readonly>
+            <button type="submit">Test Login</button>
+        </form>
+        <div id="login-result"></div>
+    </div>
+
+    <script>
+        document.getElementById('test-registration').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const result = await registerUser(
+                document.getElementById('reg-username').value,
+                document.getElementById('reg-email').value,
+                document.getElementById('reg-password').value
+            );
+            document.getElementById('reg-result').innerHTML = 
+                `<div class="${result.success ? 'success' : 'error'}">
+                    ${result.success ? '✓' : '✗'} ${result.message}
+                </div>`;
+        });
+
+        document.getElementById('test-login').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const result = await loginUser(
+                document.getElementById('login-email').value,
+                document.getElementById('login-password').value
+            );
+            document.getElementById('login-result').innerHTML = 
+                `<div class="${result.success ? 'success' : 'error'}">
+                    ${result.success ? '✓' : '✗'} ${result.message || 'Login ' + (result.success ? 'successful' : 'failed')}
+                </div>`;
+        });
+    </script>
+</body>
+</html> 

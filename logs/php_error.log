@@ -1,0 +1,8 @@
+[17-May-2025 11:19:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Logger::warning() in C:\xampp\htdocs\E-Donate-v3\api\register.php:58
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\E-Donate-v3\api\register.php on line 58
+[17-May-2025 11:19:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Logger::warning() in C:\xampp\htdocs\E-Donate-v3\api\login.php:76
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\E-Donate-v3\api\login.php on line 76

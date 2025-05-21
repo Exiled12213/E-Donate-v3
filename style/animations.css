@@ -1,0 +1,134 @@
+/* Animations for clickable elements */
+
+/* Base animation for all clickable elements */
+.clickable-element {
+    transition: all 0.2s ease-in-out;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Scale effect on hover */
+.clickable-element:hover {
+    transform: scale(1.05);
+}
+
+/* Active state animation */
+.clickable-element:active {
+    transform: scale(0.95);
+}
+
+/* Ripple effect */
+.clickable-element::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 5px;
+    height: 5px;
+    background: rgba(255, 255, 255, 0.7);
+    opacity: 0;
+    border-radius: 100%;
+    transform: scale(1, 1) translate(-50%, -50%);
+    transform-origin: 50% 50%;
+}
+
+.clickable-element:focus:not(:active)::after {
+    animation: ripple 0.6s ease-out;
+}
+
+/* Button specific animations */
+button.clickable-element, 
+a.clickable-element,
+[role="button"].clickable-element,
+input[type="submit"].clickable-element,
+input[type="button"].clickable-element {
+    transition: all 0.2s ease;
+}
+
+button.clickable-element:hover, 
+a.clickable-element:hover,
+[role="button"].clickable-element:hover,
+input[type="submit"].clickable-element:hover,
+input[type="button"].clickable-element:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Card animations */
+.card.clickable-element:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Dropdown toggle animations */
+.dropdown-toggle.clickable-element:hover {
+    transform: scale(1.05);
+}
+
+/* Ripple animation keyframes */
+@keyframes ripple {
+    0% {
+        transform: scale(0, 0);
+        opacity: 1;
+    }
+    20% {
+        transform: scale(25, 25);
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+        transform: scale(40, 40);
+    }
+}
+
+/* Pulse animation for important buttons */
+.pulse.clickable-element {
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 0 rgba(59, 130, 246, 0.7);
+    }
+    70% {
+        box-shadow: 0 0 0 10px rgba(59, 130, 246, 0);
+    }
+    100% {
+        box-shadow: 0 0 0 0 rgba(59, 130, 246, 0);
+    }
+}
+
+/* Glow effect for highlighted buttons */
+.glow.clickable-element:hover {
+    box-shadow: 0 0 8px rgba(59, 130, 246, 0.8);
+}
+
+/* Bounce animation */
+.bounce.clickable-element:hover {
+    animation: bounce 0.4s ease;
+}
+
+@keyframes bounce {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-5px);
+    }
+}
+
+/* Shake animation for notifications or alerts */
+.shake.clickable-element:hover {
+    animation: shake 0.5s ease-in-out;
+}
+
+@keyframes shake {
+    0%, 100% {
+        transform: translateX(0);
+    }
+    10%, 30%, 50%, 70%, 90% {
+        transform: translateX(-2px);
+    }
+    20%, 40%, 60%, 80% {
+        transform: translateX(2px);
+    }
+} 
